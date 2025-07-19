@@ -37,7 +37,7 @@ voice-enquiry-system ├── backend/ │ └── server.py ├── fronte
 
 - Start XAMPP and enable **Apache** and **MySQL**
 - Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-- Create a database called `transport_db`
+- Create a database called 'voice-transport-enquiry-complete'
 - Import or manually create tables:
   - `routes` – source, destination
   - `buses` – route_id, bus_number
